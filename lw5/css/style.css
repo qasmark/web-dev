@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+header, main
+{
+    margin: 0px 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    background-color: black;
+    font-size: 13px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.text{
+    font-size: 15px;
+    line-height: 1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: #EE58B6;
+}
+.header-logo{
+    font-size: 30px;
+}
+.button{
+    background-color: black;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 20px 15px;
+}
+.button:hover{
+    background-color: gray;
+}
+.button:active{
+    background-color: magenta;
+}
+.text-main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.Benefits{
+    font-size: 10px;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
