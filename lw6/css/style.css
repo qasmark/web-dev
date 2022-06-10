@@ -1,0 +1,277 @@
+* 
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header
+{
+    margin: 30px 120px 0 120px;
+    display: flex;
+    align-items: center;
+    width: 1680px;
+}
+
+.text
+{
+    font-family: 'Roboto Condensed';
+}
+
+.pink
+{
+    color: #EE58B6;
+}
+
+.header__list
+{
+    margin-left: 660px;
+    list-style-type: none;
+    font: 500 16px 'Montserrat';
+    color: #000;
+    width: 470px;
+    margin-right: 99px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button
+{
+    height: 55px;    
+    background: #05090C;
+    box-sizing: border-box;
+    border-radius: 15px;
+    color:#fff;
+    font: 600 16px 'Montserrat';
+}
+
+.button__short
+{
+    padding: 20px 40px;
+    width: 250px;
+}
+
+.button__long
+{
+    padding: 20px 80px;
+    width: 340px;
+}
+
+.top
+{
+    font-size: 25px;
+    line-height: 1.1;
+    display: flex;
+    margin: 45px 160px 0px 180px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top__content
+{
+    size: 745px 303px;
+    margin: 180px 0px 250px 0px;
+}
+.top__title
+{
+    height: 140px;
+    width: 745px;
+    font: 600 100px 'Montserrat';
+    color: #000;
+}
+
+.top__text
+{
+    width: 545px;
+    margin: 5px 0px 46px 0px;
+}
+
+.top__img
+{
+    size: 762px 636.87px;
+    margin: 30.35px 43.43px 64.78px 29.57px;
+}
+
+.features
+{
+    background: #000;
+    color:#fff;
+    display: flex;
+}
+
+.features__description
+{
+    font: 400 20px 'Roboto Condensed';
+    margin: 20px -9px 0px -9px;
+}
+
+.features__blocks
+{
+    display: flex;
+    margin: 107px 391px 142px 391px;
+}
+
+.features__first-block
+{
+    width: 290px;
+    margin-right: 145px;
+    text-align: center;
+}
+
+.features__second-block
+{
+    width: 293px;
+    margin-right: 138px;
+    text-align: center;
+}
+
+.features__third-block
+{
+    width: 293px;
+    height: 148px;
+    text-align: center;
+}
+
+.reasoning
+{
+    font-size: 18px;
+    line-height: 120%;
+}
+
+.reasoning__first-block
+{
+    margin: 72px 391px 0 365px;
+    display: flex;
+}
+
+.reasoning__second-block
+{
+    margin: 35px 392px 0 363px;
+    padding-left: 30px;
+    display: flex;
+}
+.reasoning__heading
+{
+    font: 500 50px 'Montserrat';
+}
+
+.reasoning__first-block__text
+{
+    margin-top: 225px;
+    margin-left: 52px;
+    width: 574px;
+    height: 135px;
+}
+
+.reasoning__first-block__text-width
+{
+    font: 400 18px/24.3px 'Roboto Condensed';
+    margin-top: 25.97px;
+    font-size: 18px;
+    line-height: 24px;
+    width: 574px;
+}
+
+.reasoning__second-block__text
+{
+    margin-top: 295px;
+    margin-right: 57px;
+    width: 574px;
+    height: 131px;
+}
+
+.reasoning__second-block__text-width
+{
+    font: 400 18px/24.3px 'Roboto Condensed';
+    margin-top: 26px;
+    width: 574px;
+}
+
+.reasoning__second-block__img{
+    margin: 7px 52px 44px 0px;
+}
+
+.description
+{
+    margin-top: 56px;
+    margin-left: 393px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1135px;
+}
+
+.description__heading
+{
+    font: 500 50px 'Montserrat';
+}
+
+.description__blocks
+{
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.description__block
+{
+    width: 358px;
+    height: 190px;
+    border-radius: 10px;
+    background-color: #000;
+    color: #fff;
+    font: 400 18px 'Roboto Condensed';
+    box-sizing: border-box;
+}
+
+.description__text
+{
+    margin-top: 15px;
+    font: 400 18px/21,09px 'Roboto Condensed';
+}
+
+.description__block1
+{
+    padding: 32.36px 48.98px 37.27px 40.25px;
+}
+
+.description__block2
+{
+    padding: 32.36px 48.5px 37.27px 40.74px;
+    margin-left: 30px;
+}
+
+.description__block3
+{
+    padding: 32.36px 79.02px 37.27px 40.22px;
+    margin-left: 30px;
+}
+
+.description__block4
+{
+    padding: 32.22px 53.98px 37.27px 40.12px;
+    margin-top: 30px;
+}
+
+.description__block5
+{
+    padding: 31.22px 103.98px 36.27px 41.12px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.description__block6
+{
+    padding: 32.22px 34.98px 37.27px 40.12px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.footer
+{
+    background-color: #000;
+    height: 42px;
+    margin-top: 288px;
+    padding: 31px 841px 35px 876px;
+    background-color: #000;
+    color: #fff;
+}

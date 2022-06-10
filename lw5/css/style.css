@@ -1,50 +1,129 @@
-body{
-    margin: 0px;
-}
-header, main
+.text
 {
-    margin: 0px 90px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto Condensed';
 }
-footer{
-    background-color: black;
-    font-size: 13px;
-    color: aliceblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-}
-.text{
-    font-size: 15px;
-    line-height: 1;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-span{
+
+.pink
+{
     color: #EE58B6;
 }
-.header-logo{
-    font-size: 30px;
+
+.header__list
+{
+    list-style-type: none;
+    font: 500 16px 'Montserrat';
+    color: #000;
 }
-.button{
-    background-color: black;
-    border-radius: 25px;
-    border: none;
-    color: white;
-    padding: 20px 15px;
+
+.button
+{
+    height: 55px;    
+    background: #05090C;
+    box-sizing: border-box;
+    border-radius: 15px;
+    color:#fff;
+    font: 600 16px 'Montserrat';
 }
-.button:hover{
-    background-color: gray;
+
+.button__short
+{
+    padding: 20px 40px;
+    width: 250px;
 }
-.button:active{
-    background-color: magenta;
+
+.button__long
+{
+    padding: 20px 80px;
+    width: 340px;
 }
-.text-main{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+
+.top
+{
+    font-size: 25px;
+    line-height: 1.1;
 }
-.Benefits{
-    font-size: 10px;
-    background-color: black;
-    color: blanchedalmond;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+.top__title
+{
+    font: 600 100px 'Montserrat';
+    color: #000;
+}
+
+.top__img
+{
+    height: 640px;
+    width: 760px;
+}
+
+.features
+{
+    background: #000;
+    color:#fff;
+}
+
+.features__description
+{
+    font: 400 20px 'Roboto Condensed';
     text-align: center;
+}
+
+.features__first-block
+{
+    width: 290px;
+    height: 145px;
+}
+
+.features__second-block
+{
+    width: 290px;
+    height: 145px;
+}
+
+.features__third-block
+{
+    width: 293px;
+    height: 138px;
+}
+
+.reasoning
+{
+    font-size: 18px;
+    line-height: 0.6;
+}
+.reasoning__heading
+{
+    font: 500 50px 'Montserrat';
+}
+
+.reasoning__first-block_text
+{
+    width: 575px;
+    height: 135px;
+}
+
+.reasoning__second-block_text
+{
+    width: 575px;
+    height: 131px;
+}
+
+.description__heading
+{
+    font: 500 48px/59px 'Montserrat', sans-serif;
+}
+
+.description__block
+{
+    width: 358px;
+    height: 190px;
+    border-radius: 7px;
+    background-color: #000;
+    color: #fff;
+    font: 400 18px 'Roboto Condensed'
+}
+
+.footer
+{
+    background-color: #000;
+    height: 108px;
 }
