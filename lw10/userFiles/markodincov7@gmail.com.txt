@@ -1,0 +1,4 @@
+username: qaswa
+email: markodincov7@gmail.com
+activity: Дизайнер
+policy: on

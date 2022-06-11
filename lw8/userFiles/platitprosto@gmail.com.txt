@@ -1,0 +1,4 @@
+username: qasmark
+email: platitprosto@gmail.com
+activity: Дизайнер
+policy: on

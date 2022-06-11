@@ -1,0 +1,4 @@
+username: Bia
+email: redfoxclub13@gmail.com
+activity: Деятельность
+policy: on

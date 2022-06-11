@@ -1,0 +1,4 @@
+username: qaswa
+email: redfoxclub13@gmail.com
+activity: Дизайнер
+policy: on

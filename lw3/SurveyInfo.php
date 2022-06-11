@@ -6,6 +6,7 @@ if(!isset($_GET["email"])) {
     echo "Error: Email parameter required";
     return;
 }
+
 $cur_path = ".\\data\\" . $_GET["email"] . ".txt";
 if(!file_exists($cur_path)) {
     echo "Error: No such file";
